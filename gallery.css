@@ -1,0 +1,15 @@
+#parent {
+  width: 300px;
+  height: 250px;
+  overflow: hidden;
+}
+
+#child {
+  width: 1200px;
+  height: 250px;
+  -webkit-transition: all 1s;
+}
+
+img {
+  float: left;
+}
